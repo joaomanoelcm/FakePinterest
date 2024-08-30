@@ -1,5 +1,6 @@
 instance
 layout
+criar_banco.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
