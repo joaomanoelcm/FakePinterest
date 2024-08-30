@@ -1,0 +1,1 @@
+This project aims to replicate the Pinterest full stack website features using Python, HTML, CSS and the Flask framework. The user infos are stored in a SQLite server and the password is encrypted with the Bcrypt method. This project was developed for studying purposes only and is not intended for any financial gain.
